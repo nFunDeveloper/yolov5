@@ -12,7 +12,7 @@ Usage:
     $ python path/to/train.py --data coco128.yaml --weights '' --cfg yolov5s.yaml --img 640  # from scratch
 """
 
-import argparse
+import argparseasdfasdfasdfasdfasfd
 import math
 import os
 import random
